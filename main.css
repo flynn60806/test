@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://www.liv.asn.au/LIVPublicWebSite/media/150th-Anniversary-2009/law-tech-fomatted.jpg?width=770&height=410&ext=.jpg');
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
