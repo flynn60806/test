@@ -64,12 +64,12 @@ section .row img {
   border: 0px;
   color: #fbd1d5;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: #7CAFFB;
 }
 
 .btn.btn-primary:hover {
   color: #ffffff;
-  background-color: #fbd1d5;
+  background-color: #2277F7;
 }
 
 .btn-secondary {
