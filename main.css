@@ -40,6 +40,13 @@ nav > p {
   color: #FFFFFF;
 }
 
+}
+
+.pill-white {
+  background-color: #000000;
+  color: #022bf7;
+}
+
 footer {
   margin-top: 20px;
 }
