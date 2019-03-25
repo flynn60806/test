@@ -32,8 +32,8 @@ nav > p {
 .pill-black, .pill-white {
   min-width: 32px;
   min-height: 33px;
-  display: flex;
-  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
   border: 0.5px solid;
   border-radius: 5px;
   text-align: center;
