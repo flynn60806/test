@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+  background-image: url('https://www.google.com.au/url?sa=i&source=images&cd=&ved=2ahUKEwjfyMmpt5zhAhVCFHIKHSEmA20QjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fza.linkedin.com%252Fin%252Frytasha-ramrachia-singh-55792348%26psig%3DAOvVaw3C0SCTTvaqdur7uzd73A87%26ust%3D1553573682221399&psig=AOvVaw3C0SCTTvaqdur7uzd73A87&ust=1553573682221399');
   background-size: cover;
   color: #ffffff;
   height: 500px;
