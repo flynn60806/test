@@ -30,9 +30,12 @@ nav > p {
   cursor: pointer;
 }
 .pill-black, .pill-white {
+  min-width: 32px;
+  min-height: 33px;
   border: 0.5px solid;
   border-radius: 5px;
   text-align: center;
+  
 }
 
 .pill-black {
